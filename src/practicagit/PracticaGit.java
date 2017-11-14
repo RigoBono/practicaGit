@@ -17,7 +17,7 @@ public class PracticaGit {
     public static void main(String[] args) {
         // TODO code application logic here
 
-	System.out.println("hey batillo loco");
+	System.out.println("La vida es un riesgo, carnal, hasta la victoria siempre ALV");
 
     }
     

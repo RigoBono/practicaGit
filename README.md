@@ -3,8 +3,8 @@ hey
 
 
 
-"""java
+```java
 System.out.println("Patraña");
-"""
+´´´
 
 <3
